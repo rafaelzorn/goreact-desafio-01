@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "avatar": "https://static.tuasaude.com/media/author/aa/aa/manuel/s2.jpg",
+        "name": "Diego Schell Fernandes",
+        "time": "há 3 min",
+        "content":
+            "Mauris non tempor quam, et lacinia sapien. Mauris accumsan eros eget libero posuere vulputate. Etiam elit elit, elementum sed varius at, adipiscing vitae est. Sed nec felis pellentesque, lacinia dui sed, ultricies sapien. Pellentesque orci lectus, consectetur vel posuere posuere, rutrum eu ipsum. Aliquam eget odio sed ligula iaculis consequat at eget orci. Mauris molestie sit amet metus mattis varius. Donec sit amet ligula eget nisi sodales egestas. Aliquam interdum dolor aliquet dolor sollicitudin fermentum. Donec congue lorem a molestie bibendum. Etiam nisi ante, consectetur eget placerat a, tempus a neque. Donec ut elit urna. Etiam venenatis eleifend urna eget scelerisque. Aliquam in nunc quis dui sollicitudin ornare ac vitae lectus."
+    },
+
+    {
+        "id": 2,
+        "avatar": "http://www.bsg-world.com/upload/arquivos/2011/07/04/20499/mini_fix_20499.jpg",
+        "name": "Rubia Savolksi",
+        "time": "há 10 min",
+        "content":
+            "Mauris non tempor quam, et lacinia sapien. Mauris accumsan eros eget libero posuere vulputate. Etiam elit elit, elementum sed varius at, adipiscing vitae est. Sed nec felis pellentesque, lacinia dui sed, ultricies sapien. Pellentesque orci lectus, consectetur vel posuere posuere, rutrum eu ipsum."
+    },
+
+    {
+        "id": 3,
+        "avatar": "https://static.vakinha.com.br/uploads/user/avatar/1133258/thumb_Tiago_Rosto.jpg",
+        "name": "Mr. Mustache",
+        "time": "há 20 min",
+        "content":
+            "Mauris non tempor quam, et lacinia sapien. Mauris accumsan eros eget libero posuere vulputate. Etiam elit elit, elementum sed varius at, adipiscing vitae est. Sed nec felis pellentesque, lacinia dui sed, ultricies sapien. Pellentesque orci lectus, consectetur vel posuere posuere, rutrum eu ipsum. Aliquam eget odio sed ligula iaculis consequat at eget orci. Mauris molestie sit amet metus mattis varius. Donec sit amet ligula eget nisi sodales egestas. Aliquam interdum dolor aliquet dolor sollicitudin fermentum."
+    }
+]

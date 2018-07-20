@@ -1,0 +1,19 @@
+.posts {
+    display: flex;
+    justify-content: center;
+
+    .post {
+        width: 700px;
+        padding: 30px;
+        margin-bottom: 30px;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+
+        .content {
+            line-height: 24px;
+            font-size: 14px;
+            color: #333;
+        }
+    }
+}
