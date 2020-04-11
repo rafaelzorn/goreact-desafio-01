@@ -1,37 +1,25 @@
-# Rocketseat GoReact 1º Desafio
+<p align="center">
+  <h3 align="center">1rd Rocketseat GoReact Challenge</h3>
+</p>
 
-1º desafio do curso GoReact da Rocketseat.
+---
 
-### Instalando
+## Overview
 
-Primeiro você tem que usar o seu Terminal para chegar ao diretório que você deseja armazenar o projeto. Então você executa:
+1rd challenge of the Rocketseat GoReact course.
 
-```
-git clone git@github.com:rafaelzorn/goreact-desafio-01.git
-```
+## Preview
 
-Acesse o diretório criado e você estará no diretório-raiz do projeto:
+![preview-1](./preview-1.png)
 
-```
-cd goreact-desafio-01
-```
+## Running the project
 
-Instalar as dependências do projeto:
+- Clone this repository
+- Install all dependencies using the command `yarn`
+- Run `yarn dev`
+- Access `http://localhost:3000/`
 
-```
-npm install
-```
+## Used technologies
 
-Por fim, execute o servidor de desenvolvimento e o aplicativo deve estar disponível na seguinte URL: http://localhost:8080
-
-```
-npm run dev
-```
-
-## Screenshots
-
-![Screenshot 1](https://image.ibb.co/jiR7Wy/screenshot.png)
-
-## Construído com
-
--   [React](https://reactjs.org/)
+- React
+- Other React JS libs
